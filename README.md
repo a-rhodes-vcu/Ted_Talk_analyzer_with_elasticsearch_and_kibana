@@ -1,1 +1,1 @@
-
+<h5>This project explores ted talk transcripts and other video information using Natural Language Processing (NLP), Elasticsearch and Kibana. The ted talk dataset was downloaded from here: https://www.kaggle.com/rounakbanik/ted-talks and an NLP tutorial was found here: https://github.com/1fmusic/tedTalkRecommender/blob/master/README.md. </h5>
